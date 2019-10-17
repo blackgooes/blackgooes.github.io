@@ -1,0 +1,2 @@
+# blackgooes.github.io
+blog
